@@ -25,7 +25,7 @@ SECRET_KEY = 'nlc+(w#7o-o1v5^13ko4v63&csybclktx=3)fg#nflzl#b437k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['supersewers.herokuapp.com']
+ALLOWED_HOSTS = ['supersewers.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
